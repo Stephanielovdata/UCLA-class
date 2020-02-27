@@ -1,5 +1,5 @@
-# ADS Project 1: R Notebook on Lyrics Analysis
+# Data Analysis Using Python Final Project
 ### Data folder
 
-The data directory contains data used in the analysis. This is treated as read only; in paricular the R/python files are never allowed to write to the files in here. Depending on the project, these might be csv files, a database, and the directory itself may have subdirectories.
+The full historical daily price and volume data for all US-based stocks and ETFs trading on the NYSE, NASDAQ, and NYSE MKT is provided from Kaggle. Thank you Boris Marjanovic (The account name of data provider in Kaggle). The data (last updated 11/10/2017) is presented in CSV format as follows: Date, Open, High, Low, Close, Volume, OpenInt. Note that prices have been adjusted for dividends and splits.
 
